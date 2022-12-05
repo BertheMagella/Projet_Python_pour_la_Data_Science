@@ -3,9 +3,9 @@
 # THEME : ANALYSE DES AVIS DES STAGIAIRES ET EMPLOYES DE SOCIETE GENERALE TRANSMIS VIA LA PLATEFORME INDEED.COM ENTRE 2012 ET 2022  
 
 ## Auteurs:
-**-TALEB AHMED Raja
--MAGAJIE WAMSA Berthe Magella
--RENE Léo**
+* TALEB AHMED Raja
+* MAGAJIE WAMSA Berthe Magella
+* RENE Léo
 
 ## A propos du projet
 Ce projet s'inscrit dans le cadre du cours de Python pour la Data Science dispensé en deuxième année du cycle ingénieur de l'ENSAE Paris; l'objectif étant de mettre en application tous les fondamentaux acquis jusqu'ici. 
